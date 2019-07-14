@@ -1,1 +1,1 @@
-deployed webapp: song.azurewebsites.new
+deployed webapp: song.azurewebsites.net
